@@ -1,0 +1,1 @@
+1. Average: (a + b) / 2. Use bit math to shorten time: (a + b) >>> 1.
